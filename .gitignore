@@ -3,6 +3,12 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Ignore mes/ folders
+mes*/
+
+# Ignore list of devices
+dev_list.csv
+
 # C extensions
 *.so
 
